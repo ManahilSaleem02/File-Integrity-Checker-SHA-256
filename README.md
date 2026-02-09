@@ -19,6 +19,7 @@ A lightweight command-line tool that verifies file integrity by generating and c
 
 # Example Usage:
 <img width="880" height="129" alt="me" src="https://github.com/user-attachments/assets/372b1279-5230-401e-b600-0528ebcdd077" />
+<img width="880" height="129" alt="2" src="https://github.com/user-attachments/assets/e5f948fe-0bea-4aa2-8644-f43801fdbd1d" />
+<img width="850" height="129" alt="3" src="https://github.com/user-attachments/assets/bf1e1d58-905d-4596-be41-5f169d22bd85" />
 
-<img width="607" height="225" alt="Untitledq" src="https://github.com/user-attachments/assets/42fe2fa1-01f3-4d86-844a-f76d69da5df2" />
 
