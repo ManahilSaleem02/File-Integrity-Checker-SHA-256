@@ -10,7 +10,7 @@ A lightweight command-line tool that verifies file integrity by generating and c
 
 # How to Run:
 
-  1. Clone the repository:    "git clone https://github.com/your-username/File-Integrity-Checker.git"  then "cd File-Integrity-Checker"
+  1. Clone the repository:    "git clone https://github.com/ManahilSaleem02/File-Integrity-Checker-SHA-256.git"  then "cd File-Integrity-Checker"
 
   2. Run the Python program and generate hash for a file:  "python file_checker.py generate <filename>"
 
