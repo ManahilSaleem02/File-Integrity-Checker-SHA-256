@@ -23,6 +23,6 @@ A lightweight command-line tool that verifies file integrity by generating and c
 2. Creating a test file and saving its hash: <img width="880" height="129" alt="2" src="https://github.com/user-attachments/assets/e5f948fe-0bea-4aa2-8644-f43801fdbd1d" />
 3. Modifying the file and then checking the file integrity: <img width="850" height="129" alt="3" src="https://github.com/user-attachments/assets/bf1e1d58-905d-4596-be41-5f169d22bd85" />
 
-project url: https://github.com/ManahilSaleem02/File-Integrity-Checker-SHA-256
+project url: https://roadmap.sh/projects/file-integrity-checker
 
 
