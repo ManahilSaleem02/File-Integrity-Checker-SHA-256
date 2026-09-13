@@ -1,6 +1,6 @@
 # File-Integrity-Checker-SHA-256:
 A lightweight command-line tool that verifies file integrity by generating and comparing cryptographic hash values (SHA-256). The tool helps detect unauthorized or accidental file modifications by ensuring that a file’s contents remain unchanged over time. Commonly used in cybersecurity, digital forensics, and system monitoring to maintain data integrity.
-project url: https://github.com/ManahilSaleem02/File-Integrity-Checker-SHA-256
+
 
 # Features / Functionality:
   1. Generate SHA-256 hash for any file
@@ -22,5 +22,7 @@ project url: https://github.com/ManahilSaleem02/File-Integrity-Checker-SHA-256
 1. cloning the repository: <img width="880" height="129" alt="me" src="https://github.com/user-attachments/assets/372b1279-5230-401e-b600-0528ebcdd077" />
 2. Creating a test file and saving its hash: <img width="880" height="129" alt="2" src="https://github.com/user-attachments/assets/e5f948fe-0bea-4aa2-8644-f43801fdbd1d" />
 3. Modifying the file and then checking the file integrity: <img width="850" height="129" alt="3" src="https://github.com/user-attachments/assets/bf1e1d58-905d-4596-be41-5f169d22bd85" />
+
+project url: https://github.com/ManahilSaleem02/File-Integrity-Checker-SHA-256
 
 
